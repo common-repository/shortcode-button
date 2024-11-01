@@ -1,0 +1,33 @@
+.but-down,.but-heart,.but-text,.but-box,.but-search,.but-document,.but-link,.but-next,.but-music{padding:12px 20px 12px 0;display:inline-block;*display:inline;*zoom:1}
+.but-down a,.but-heart a,.but-text a,.but-box a,.but-search a,.but-document a,.but-link a,.but-next a,.but-music a{color:#474747 !important;float:left;font-size:13px;height:33px;padding-right:15px;text-decoration:none;text-shadow:1px 1px 1px #FFF !important}
+.but-down a span,.but-heart a span,.but-text a span,.but-box a span,.but-search a span,.but-document a span,.but-link a span,.but-next a span,.but-music a span{float:left;height:33px;padding-left:44px;padding-top:7px}
+.but-down a span{background:url(img/but-down.png) no-repeat scroll 0 0 transparent}
+.but-down a{background:url(img/but-down.png) no-repeat scroll right -34px transparent}
+.but-down a:hover span{background:url(img/but-down.png) no-repeat scroll left -68px transparent}
+.but-down a:hover{background:url(img/but-down.png) no-repeat scroll right -102px transparent}
+.but-down a:active span{background:url(img/but-down.png) no-repeat scroll left -136px transparent}
+.but-down a:active{background:url(img/but-down.png) no-repeat scroll right -170px transparent}
+.but-heart a span{background:url(img/but-heart.png) no-repeat scroll 0 0 transparent}
+.but-heart a{background:url(img/but-heart.png) no-repeat scroll right -34px transparent}
+.but-heart a:hover span{background:url(img/but-heart.png) no-repeat scroll left -68px transparent}
+.but-heart a:hover{background:url(img/but-heart.png) no-repeat scroll right -102px transparent}
+.but-heart a:active span{background:url(img/but-heart.png) no-repeat scroll left -136px transparent}
+.but-heart a:active{background:url(img/but-heart.png) no-repeat scroll right -170px transparent}
+.but-document a span{background:url(img/but-document.png) no-repeat scroll 0 0 transparent}
+.but-document a{background:url(img/but-document.png) no-repeat scroll right -34px transparent}
+.but-document a:hover span{background:url(img/but-document.png) no-repeat scroll left -68px transparent}
+.but-document a:hover{background:url(img/but-document.png) no-repeat scroll right -102px transparent}
+.but-document a:active span{background:url(img/but-document.png) no-repeat scroll left -136px transparent}
+.but-document a:active{background:url(img/but-document.png) no-repeat scroll right -170px transparent}
+.but-link a span{background:url(img/but-link.png) no-repeat scroll 0 0 transparent}
+.but-link a{background:url(img/but-link.png) no-repeat scroll right -34px transparent}
+.but-link a:hover span{background:url(img/but-link.png) no-repeat scroll left -68px transparent}
+.but-link a:hover{background:url(img/but-link.png) no-repeat scroll right -102px transparent}
+.but-link a:active span{background:url(img/but-link.png) no-repeat scroll left -136px transparent}
+.but-link a:active{background:url(img/but-link.png) no-repeat scroll right -170px transparent}
+.but-music a span{background:url(img/but-music.png) no-repeat scroll 0 0 transparent}
+.but-music a{background:url(img/but-music.png) no-repeat scroll right -34px transparent}
+.but-music a:hover span{background:url(img/but-music.png) no-repeat scroll left -68px transparent}
+.but-music a:hover{background:url(img/but-music.png) no-repeat scroll right -102px transparent}
+.but-music a:active span{background:url(img/but-music.png) no-repeat scroll left -136px transparent}
+.but-music a:active{background:url(img/but-music.png) no-repeat scroll right -170px transparent}
